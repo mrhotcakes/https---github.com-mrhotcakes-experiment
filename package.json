@@ -1,0 +1,22 @@
+{
+  "name": "josh",
+  "version": "1.0.0",
+  "description": "josh test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrhotcakes/experiment.git"
+  },
+  "author": "josh maher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrhotcakes/experiment/issues"
+  },
+  "homepage": "https://github.com/mrhotcakes/experiment",
+  "dependencies": {
+    "semantic-ui": "^2.1.8"
+  }
+}
