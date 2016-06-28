@@ -1,0 +1,1 @@
+/Users/joshua/Desktop/myapp/tmp/funnel-input_base_path-PGSqCsvr.tmp/0/bower_components/ember-cli-test-loader/test-loader.js

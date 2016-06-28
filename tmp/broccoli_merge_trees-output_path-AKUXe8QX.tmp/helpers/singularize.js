@@ -1,0 +1,1 @@
+/Users/joshua/Desktop/myapp/tmp/broccoli_merge_trees-input_base_path-xBiSB9EV.tmp/12/helpers/singularize.js
